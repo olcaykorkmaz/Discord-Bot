@@ -1,4 +1,4 @@
-TR: Özelleştirilebilir Discord sohbet botu. Mesaj göndermesini veya silmesini sağlayabilirsiniz. 
+Özelleştirilebilir Discord sohbet botu. Mesaj göndermesini veya silmesini sağlayabilirsiniz. 
 
 
 -> KURULUMU <-
