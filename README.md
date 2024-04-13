@@ -1,4 +1,5 @@
-TR: Özelleştirilebilir Discord sohbet botu. Mesaj göndermesini veya silmesini sağlayabilirsiniz. EN: Customizable Discord chat bot. You can have it send or delete messages.
+TR: Özelleştirilebilir Discord sohbet botu. Mesaj göndermesini veya silmesini sağlayabilirsiniz. 
+EN: Customizable Discord chat bot. You can have it send or delete messages.
 
 -> KURULUMU <-
 
